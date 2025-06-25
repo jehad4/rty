@@ -57,23 +57,22 @@ module.exports = {
     const body = `
 ╭═════『 👑 OWNER INTRO 』═════╮
 │
-│ ✨ Full Name: Habibur Rahman Saim  
-│ ✨ Nickname: Saim  
+│ ✨ Full Name: JEHAD UR RAHOMAN JOY  
+│ ✨ Nickname: JOY 
 │ 🎂 Age: 17+  
-│ 🗓️ Date of Birth: 15 March 2008 
+│ 🗓️ Date of Birth: 06 June 2008 
 │ 🚹 Gender: Male  
 │ ☪️ Religion: Islam  
 │ 🌍 Nationality: Bangladeshi  
-│ 📍 Current Address: Islampur, Dhaka  
-│ 🎓 Class: New 10  
+│ 📍 Current Address: JHENAIDAH
+│ 🎓 Class: INTER 2nd  
 │ 💘 Relationship Status: Single  
-│ 📏 Height: 5'10"  
+│ 📏 Height: 5'08"  
 │ ⚫ Favorite Color: Black  
 │ 🎶 Favorite Song: "Mann Mera"  
 │ 🍥 Favorite Anime: Naruto  
-│ 🎮 Favorite Game: Free Fire  
-│ 🆔 Game UID: 5640444634  
-│
+│ 🎮 Favorite Game: MLBB  
+
 ╰══════════════════════════════╯
 
 ╭───────『 ✨ CAPTION ✨ 』───────╮

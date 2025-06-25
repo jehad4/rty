@@ -1,3 +1,4 @@
+
 const moment = require('moment-timezone');
 const axios = require('axios');
 
@@ -34,10 +35,9 @@ module.exports = {
   sendInfo: async function (message) {
     const botName = "꧁ 𝓝𝓸𝓫𝓲𝓽𝓪 ☁️💬 ꧂";
     const botFullName = "⚙️ 𝙽𝙾𝙱𝙸𝚃𝙰 𝙲𝙷𝙰𝚃 𝙱𝙾𝚃 ⚙️";
-    const authorName = "S A I M";
-    const authorFB = "Ew'r Saim";
-    const whatsapp = "📱 01729537588";
-    const telegram = "✈️ @saimx69x";
+    const authorName = "JOY";
+    const authorFB = "NY XV Eil";
+    const whatsapp = "📱 01959135627";
     const mood = "💔 Sad";
     const status = "༆ Single ༆";
 
@@ -60,7 +60,6 @@ module.exports = {
 ┃ ✦ 𝗡𝗮𝗺𝗲: ${authorName}
 ┃ ✦ 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: ${authorFB}
 ┃ ✦ 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: ${whatsapp}
-┃ ✦ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: ${telegram}
 ┃ ✦ 𝗠𝗼𝗼𝗱: ${mood}
 ┃ ✦ 𝗦𝘁𝗮𝘁𝘂𝘀: ${status}
 ┃
